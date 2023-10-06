@@ -26,7 +26,7 @@ exports.cookieExtractor = function (req) {
   }
   //TODO : this is temporary token for testing without cookie
   // token =
-  //   "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY1MWJmNmE0ZDNjOTZiZjEyY2Q2ZGM2NyIsImlhdCI6MTY5NjYwNTQwOH0.FlILXDsxB9jDJxkU_ZIBkPAHcXyCRSIVKkzqd63nev0";
+  //   "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY1MWM2MTE4ZDNjOTZiZjEyY2Q2ZGM2OSIsImlhdCI6MTY5NjYxNzQ3OX0.SR5yYSkFbqZvYd9uviya5ZpJxGHe3LUoGKBrY7bOkT4";
   return token;
 };
 
